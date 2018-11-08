@@ -123,6 +123,7 @@ textarea{
 footer{
 	padding-top: 30px;
 	padding-bottom: 30px;
+	background: rgb(33,37,41);
 }
 
 .send-custom{
